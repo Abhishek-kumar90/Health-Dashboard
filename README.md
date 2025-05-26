@@ -13,8 +13,8 @@ A fully responsive, pixel-perfect **static healthcare dashboard** built using **
 
 ## 🚀 Live Demo
 
-🔗 [Visit Live Site](https://your-live-url.vercel.app)  
-📦 [View GitHub Repository](https://github.com/your-username/healthcare-dashboard)
+🔗 [Visit Live Site](https://majestic-alpaca-341325.netlify.app/)  
+📦 [View GitHub Repository](https://github.com/Abhishek-kumar90/Health-Dashboard)
 
 ---
 
